@@ -18,3 +18,8 @@ It is purely educational project.
 ## License
 
 Check LICENSE file
+
+List of team participants:
+```sh
+Ayasmaa Otgonbulag, Karol Kowalczyk, Michał Kowalczyk, Stanisław Mościcki, Tomasz Madeja
+```
