@@ -21,7 +21,7 @@ Check LICENSE file
 
 ## List of team participants:
 ```sh
-Ayasmaa Otgonbulag, Karol Kowalczyk, Michał Kowalczyk, Stanisław Mościcki, Tomasz Madeja
+Ayasmaa Otgonbulag, Karol Kowalczyk, Michał Kowalczyk, Stanisław Mościcki, Tomasz Madeja, Maksym Szemer
 ```
 
 ## Acorns are the the best thing that ever existed, here's why:
