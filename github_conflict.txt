@@ -1,3 +1,4 @@
+intentional-conflict
 Queen - Bohemian Rhapsody:
 Is this the real life?
 Is this just fantasy?
@@ -10,3 +11,15 @@ Because I'm easy come, easy go,
 Little high, little low,
 Any way the wind blows doesn't really matter to
 Me, to me
+=======
+Queen - Killer Queen:
+
+She keeps her Moët et Chandon
+In her pretty cabinet
+"Let them eat cake, " she says
+Just like Marie Antoinette
+A built-in remedy
+For Khrushchev and Kennedy
+At anytime an invitation
+You can't decline
+
