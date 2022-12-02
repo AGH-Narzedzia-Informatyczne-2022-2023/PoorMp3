@@ -1,2 +1,3 @@
 # Background color
-background_color = (255, 255, 255)
+# Masno
+background = (255, 255, 255)
