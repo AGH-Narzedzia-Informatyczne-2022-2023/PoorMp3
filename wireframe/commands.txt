@@ -1,0 +1,7 @@
+          === Acorn ===
+Player command list:
+Press 'p' to pause
+Press 'u' to unpause
+Press 'e' to end playing current song
+Press 'c' to close player
+Press 'v' and next value [0,1] to change volume level
